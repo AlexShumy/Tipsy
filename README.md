@@ -2,7 +2,7 @@
 
 A simple calculator always comes in handy when you want to split tips with your friends after having your dinner.
 
-## What's learned
+## Features
 
 * Multi-screen app with animated navigation
 * MVC design pattern
